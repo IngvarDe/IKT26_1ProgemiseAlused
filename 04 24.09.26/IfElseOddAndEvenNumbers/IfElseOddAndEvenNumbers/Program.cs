@@ -20,6 +20,7 @@
                 Console.WriteLine("See on paarisarv " + number);
                 //siia tuleb välja kutsuda meetod,
                 //mis ütleb, et see on paarisarv
+                EvenNumberMethod();
             }
             else
             {
