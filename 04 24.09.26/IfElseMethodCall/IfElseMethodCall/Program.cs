@@ -8,7 +8,7 @@
             Console.WriteLine("Hello, World!");
             //kasutada if ja else.
             //kui kasutaja soovib, siis saab ta meetodi välja kutsuda
-            Console.WriteLine("Kui soovid meetotit välja kutsuda, siis kirjuta ja");
+            Console.WriteLine("Kui soovid meetodit välja kutsuda, siis kirjuta ja");
             string method = Console.ReadLine();
 
             if (method == "ja")
