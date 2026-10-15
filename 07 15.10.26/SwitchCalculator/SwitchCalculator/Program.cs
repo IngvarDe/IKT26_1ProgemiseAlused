@@ -7,7 +7,7 @@
             Console.WriteLine("Sisesta esimene number!");
             float firstNr = float.Parse(Console.ReadLine());
 
-            Console.WriteLine("Sisesta tehe: *, /, +, -");
+            Console.WriteLine("Vali tehe: *, /, +, -");
             string input = Console.ReadLine();
 
             Console.WriteLine("Sisesta teine number!");
