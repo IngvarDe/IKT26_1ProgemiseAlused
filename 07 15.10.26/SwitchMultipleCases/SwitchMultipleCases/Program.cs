@@ -15,7 +15,7 @@
                     break;
 
                 case "OOP" or "Classes" or "Objects":
-                    Console.WriteLine("Itermediate");
+                    Console.WriteLine("Intermediate");
                     break;
 
                 case "Asynchronous Programming" or "LINQ" or "Delegates":
