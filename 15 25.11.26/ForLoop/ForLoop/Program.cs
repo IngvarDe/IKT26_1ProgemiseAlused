@@ -12,6 +12,7 @@
                 return;
             }
 
+            //kuuse oksad ja kolm ehet
             for (int row = 1; row <= height; row++)
             {
 
